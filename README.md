@@ -1,2 +1,3 @@
 # best-repo-ever
-Add some content using your favorite text editor. New changes
+Add some content using your favorite text editor.
+New changes
